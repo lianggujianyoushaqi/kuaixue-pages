@@ -1,0 +1,77 @@
+{
+  "version": "0.3-full-course",
+  "original": true,
+  "units": 8,
+  "lessons": 32,
+  "coreWords": 144,
+  "displayCards": 192,
+  "tasks": {
+    "listen-choice": 33,
+    "read-choice": 30,
+    "order": 5,
+    "build": 25,
+    "scene-choice": 3
+  },
+  "audioDependentTasks": 34,
+  "dialogueTurns": 132,
+  "readings": 8,
+  "contentAdjustments": [
+    {
+      "id": "U05-L01-Q2",
+      "old": [
+        "香蕉",
+        "胡萝卜",
+        "题目没有提到的土豆"
+      ],
+      "new": [
+        "香蕉",
+        "胡萝卜",
+        "土豆"
+      ],
+      "reason": "Remove meta hints or implausible distractors; preserve target and correct meaning."
+    },
+    {
+      "id": "U06-L04-Q2",
+      "old": [
+        "桥在树附近",
+        "桥在床下面",
+        "桥在箱子里面"
+      ],
+      "new": [
+        "桥在树附近",
+        "桥在花附近",
+        "桥在房子附近"
+      ],
+      "reason": "Remove meta hints or implausible distractors; preserve target and correct meaning."
+    },
+    {
+      "id": "U07-L02-Q2",
+      "old": [
+        "学校附近",
+        "床下面",
+        "背包里面"
+      ],
+      "new": [
+        "学校附近",
+        "商店附近",
+        "农场附近"
+      ],
+      "reason": "Remove meta hints or implausible distractors; preserve target and correct meaning."
+    },
+    {
+      "id": "U07-L04-Q2",
+      "old": [
+        "公园",
+        "农场",
+        "小屋里的床"
+      ],
+      "new": [
+        "公园",
+        "农场",
+        "商店"
+      ],
+      "reason": "Remove meta hints or implausible distractors; preserve target and correct meaning."
+    }
+  ],
+  "note": "Original authored texts and graphics. Local synthesized demonstration voices, not human recordings. No source-site assets; no repository published."
+}
