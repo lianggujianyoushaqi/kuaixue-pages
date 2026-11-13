@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-13",
+  "nodeTests": {"passed":52,"failed":0,"skipped":0},
+  "browser": {
+    "lessonsCompletedThroughUI":32,
+    "questionsSubmittedThroughUI":96,
+    "actualLocalListeningGates":34,
+    "audioDecoded":412,
+    "audioReadyState4":412,
+    "audioDecodeFailures":0,
+    "continuousShopDialogueLines":4,
+    "mobileWidth":375,
+    "mobileViewsChecked":233,
+    "mobileHorizontalOverflows":0,
+    "storageRestored":true,
+    "legacyStorageUntouched":true,
+    "transientNativeAPIOverridesRestored":true,
+    "desktopViewportRestored":true,
+    "forestNestedSVGs":0,
+    "forestOutOfBoundsGroups":0
+  },
+  "notes":"Browser audit, not learner results; no true-device, teacher or speaker/headphone listening evaluation. See VERIFICATION.md."
+}
